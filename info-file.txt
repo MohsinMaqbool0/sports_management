@@ -1,0 +1,44 @@
+Student Register Data Field
+1. First Name
+2. Last Name
+3. Roll Number
+4. Stream
+5. Semester
+6. Batch
+9. College Id Number
+10. Phone Number
+
+Stock Data Field
+1. Item Name
+2. Sport category
+3. Manufacture  or brand name
+4. Purchase date
+5. Quantity
+6. Conditions status
+
+11.jan.2024 (Mohsin)
+Equipment form
+Remove Condition  Column
+
+Students form
+Stream should be drop down (BCA,BBA,BA, etc )
+Semester should be drop down (1st, 2nd, 3rd , 4th , etc)
+
+
+Equipment form for transaction
+create a form for assigned Equipment to students
+    . Drop down item Name
+    . Drop down sport category
+    . Select student by college id number search then select
+    . Select the Condition of item it should be drop down ( excellence , good , poor )
+    . Select date for borrowed Item
+    Note (if you have alter native solution kindly check for drop down)
+
+13-jan-2024 (Mohsin)
+create a new page to shows the Equipment which we have and how many we have all the details.  (Note : check the UI ONLY rest file is create and working properly.)
+
+14-jan-2024 (Mohsin)
+Assigned Equipment Page -> Equipment Label. (Suggestion: Should be checkbox)
+
+21-jan-2024 (for mohsin)
+equipment return view is (pending) 
